@@ -1,0 +1,6 @@
+[package]
+name = "iter-sum-test"
+version = "0.1.0"
+authors = ["Kevin Choubacha <kchoubacha@weedmaps.com>"]
+
+[dependencies]
